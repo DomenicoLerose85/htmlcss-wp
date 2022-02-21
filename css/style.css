@@ -55,14 +55,15 @@ nav{
 }
 
 nav ul li {
+    font-style: 'Heebo';
     list-style-type: none;
     display: inline-block;
     padding-right: 10px;
     text-transform: uppercase;
     text-decoration: none;
     color: #595252;
-    font-size: 18px;
-    font-weight: 200;
+    font-size: 17px;
+    font-weight: 150;
 }
 
 
