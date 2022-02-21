@@ -46,6 +46,7 @@
     color: white;
     font-family: 'Heebo';
     left: 70px;
+    z-index: 11;
 }
 
 .hero_paragraph{
@@ -54,6 +55,7 @@
     color: white;
     font-size: small;
     left: 70px;
+    z-index: 11;
 }
 
 .hero {
@@ -123,6 +125,10 @@ nav ul li {
     opacity: 0.3;
     z-index: 10;
     border-radius: 20px;
+}
+
+.hero_overlay_height{
+    height: 100%;
 }
 
 .float__right{
