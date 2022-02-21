@@ -69,6 +69,16 @@
     background-repeat: no-repeat;
 }
 
+#text{
+    font-style: 'Heebo';
+    color: #595252;
+    margin-bottom: 10px;
+}
+
+h1{
+    margin-top: 20px;
+}
+
 /* nav  bar */
 
 nav{
@@ -92,7 +102,7 @@ nav ul li {
 
 .container{
     width: 75%;
-    margin: 15px auto;
+    margin: -30px auto;
 }
 
 .main{
