@@ -118,7 +118,11 @@ nav ul li {
 }
 
 .footer{
-    background-color: #d7d7d7;
+    background-color: white;
     text-align: center;
-    font-style: Verdana;
+    font-style: Heebo;
+}
+
+.fa-solid {
+    color: red;
 }
