@@ -69,6 +69,7 @@
 }
 
 #text{
+    line-height: 1px;
     font-style: 'Heebo';
     color: #595252;
     margin-bottom: 10px;
@@ -117,12 +118,13 @@ nav ul li {
 }
 
 .box_content_generic p{
-    font-size: 21px;
+    font-weight: 100;
     color: #747070;
 }
 
 .main h3{
-    color: #747070;
+    font-weight: 500;
+    color: #1a1919;
     margin: 5px 0;
 }
 
@@ -136,7 +138,7 @@ nav ul li {
 }
 
 .box_content_middle p{
-    font-size: 21px;
+    font-weight: 100;
     color: #747070;
 }
 
@@ -152,6 +154,7 @@ nav ul li {
 
 .hero_overlay_height{
     height: 100%;
+
 }
 
 .float__right{
